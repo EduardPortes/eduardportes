@@ -68,4 +68,3 @@ Hey there! I'm a BackEnd Developer passionate about building scalable backend sy
 ## 📱 Connect With Me
 
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://linkedin.com/in/eduardoportess)
-[<img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>](https://medium.com/@eduardportes)
