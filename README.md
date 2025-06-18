@@ -25,12 +25,6 @@ Hey there! I'm a BackEnd Developer passionate about building scalable backend sy
   <img alt="MySQL" title="MySQL" width="40px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 </div>
 
-### 📱 Frontend & Mobile
-<div>
-  <img alt="Flutter" title="Flutter" width="40px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
-  <img alt="Dart" title="Dart" width="40px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/>
-</div>
-
 ### 🧰 DevOps & Tools
 <div>
   <img alt="Docker" title="Docker" width="40px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
